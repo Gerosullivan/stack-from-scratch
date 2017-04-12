@@ -1,0 +1,13 @@
+{
+  "name": "stack-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ger O'Sullivan",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^1.0.3"
+  }
+}
